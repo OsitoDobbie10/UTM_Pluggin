@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/utm_pluggin" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
